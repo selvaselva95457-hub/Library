@@ -1,0 +1,19 @@
+# Library Management System
+
+A console-based Library Management System developed using Java, OOP, and Collections.
+
+## Features
+
+- Add books
+- Display books
+- Search books
+- Borrow books
+- Return books
+- Track book availability
+
+## Technologies Used
+
+- Java
+- Object-Oriented Programming
+- ArrayList
+- Scanner
